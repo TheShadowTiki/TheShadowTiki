@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdul-Malik Zekri!
+# 👋 Hi, I'm Malik Zekri!
 
 🎓 Senior @ University of South Florida (Computer Engineering + Applied Mathematics)  
 🧠 Computational Neuroscience | 🧬 Biomedical AI | 🧠 Interpretable Machine Learning  
